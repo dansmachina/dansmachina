@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/algope_?label=Twitter&style=social)](https://twitter.com/algope_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/algope/)
 
-<img src="https://raw.githubusercontent.com/algope/algope/master/media/tenor.gif">
+<img src="https://raw.githubusercontent.com/algope/algope/master/media/tenor.gif" width="100px">
 <!--
 **algope/algope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
