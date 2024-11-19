@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alejandro 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/algope/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/algp/)
 [![Bluesky](https://img.shields.io/badge/Bluesky--_.svg?style=social&logo=bluesky)](https://bsky.app/profile/dansmachina.com)
 
 
